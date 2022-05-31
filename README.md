@@ -35,3 +35,4 @@ Create the data visualizations</br>
 Deployed the KPI dashboard</br>
 
 # Dashboard
+<img src="https://raw.githubusercontent.com/Ahmednas211/KPI_Dashboard-Power-BI-/main/KPI%20Dashboard.jpg">
